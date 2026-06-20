@@ -6,7 +6,7 @@
         {
           "name": "Somoy Tv",
           "logo": "https://i.ibb.co.com/7w2rF08/20260618-034915.webp",
-          "player_type": "mx",
+          "player_type": "exoplayer",
           "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
           "premium": true
         },
