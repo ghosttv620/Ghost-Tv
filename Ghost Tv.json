@@ -62,6 +62,12 @@
       "name": "ʙᴀɴɢʟᴀ ᴛᴠ",
       "movies": [
         {
+          "name": "Bangla Tv",
+          "logo": "https://i.ibb.co.com/V0MJDLmq/20260623-015601.webp",
+          "link": "https://stream.ottplus.live/live/bangla_tv_hd_abr/live/bangla_tv_hd_720/chunks.m3u8",
+          "premium": false
+        },
+        {
           "name": "Ananda Tv",
           "logo": "https://i.ibb.co.com/Q7G44Gp0/20260623-015129.webp",
           "link": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8",
