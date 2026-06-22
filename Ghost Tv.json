@@ -191,7 +191,7 @@
           "name": "Ekattor Tv",
           "logo": "https://i.ibb.co.com/qYfZzpXb/20260617-211924.webp",
           "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8",
-          "premium": true
+          "premium": false
         },
         {
           "name": "Independent",
