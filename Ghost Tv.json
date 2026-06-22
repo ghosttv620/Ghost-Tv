@@ -197,7 +197,7 @@
           "name": "Independent",
           "logo": "https://i.ibb.co.com/tp63qbFv/20260617-212423.webp",
           "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8",
-          "premium": true
+          "premium": false
         }
       ]
     }
