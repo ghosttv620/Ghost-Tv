@@ -33,9 +33,9 @@
       "movies": [
         {
           "name": "CCTV",
-          "logo": "https://i.ibb.co.com/rKPkrtF8/cctv-logo-png-seeklogo-285713.webp",
+          "logo": "https://i.ibb.co.com/VpCTKKPN/20260623-011131.webp",
           "link": "https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8",
-          "premium": false
+          "premium": true
         },
         {
           "name": "Tsports",
