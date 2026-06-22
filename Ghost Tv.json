@@ -62,6 +62,12 @@
       "name": "ʙᴀɴɢʟᴀ ᴛᴠ",
       "movies": [
         {
+          "name": "Ananda Tv",
+          "logo": "https://i.ibb.co.com/Q7G44Gp0/20260623-015129.webp",
+          "link": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8",
+          "premium": false
+        },
+        {
           "name": "Channel 9",
           "logo": "https://i.ibb.co.com/h1fLjJp3/20260623-013624.webp",
           "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8",
