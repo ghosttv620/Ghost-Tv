@@ -41,12 +41,6 @@
           "premium": true
         },
         {
-          "name": "Tsports",
-          "logo": "https://i.ibb.co.com/Xmn5JpS/20260618-022013.webp",
-          "link": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
-          "premium": true
-        },
-        {
           "name": "Movie Bangla",
           "logo": "https://i.ibb.co.com/rGCQ14yK/20260618-021225.webp",
           "link": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
