@@ -173,7 +173,7 @@
           "name": "Jamuna Tv",
           "logo": "https://i.ibb.co.com/238JNcWJ/20260617-211002.webp",
           "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
-          "premium": true
+          "premium": false
         },
         {
           "name": "Atn News",
