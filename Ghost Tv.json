@@ -28,6 +28,12 @@
       "name": "ʙᴀɴɢʟᴀ ᴛᴠ",
       "movies": [
         {
+          "name": "Bangla +",
+          "logo": "https://i.ibb.co.com/jvfMvpZL/20260622-192950.webp",
+          "link": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
+          "premium": false
+        },
+        {
           "name": "Somoy Tv",
           "logo": "https://i.ibb.co.com/7w2rF08/20260618-034915.webp",
           "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
