@@ -62,6 +62,12 @@
       "name": "ʙᴀɴɢʟᴀ ᴛᴠ",
       "movies": [
         {
+          "name": "Mohona Tv",
+          "logo": "https://i.ibb.co.com/RkrGYt9j/20260623-020811.webp",
+          "link": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8",
+          "premium": true
+        },
+        {
           "name": "Bijoy Tv",
           "logo": "https://i.ibb.co.com/zWxGvCcG/20260623-020438.webp",
           "link": "https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8",
