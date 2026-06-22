@@ -4,6 +4,12 @@
       "name": "ꜱᴘᴏʀᴛꜱ",
       "movies": [
         {
+          "name": "Fox Five",
+          "logo": "https://i.ibb.co.com/dqyg4KF/20260622-161213.webp",
+          "link": "http://84.17.50.102/fox/index.m3u8",
+          "premium": true
+        },
+        {
           "name": "Somoy Tv",
           "logo": "https://i.ibb.co.com/7w2rF08/20260618-034915.webp",
           "player_type": "exoplayer",
