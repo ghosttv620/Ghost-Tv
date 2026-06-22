@@ -107,7 +107,7 @@
           "name": "Channel 9",
           "logo": "https://i.ibb.co.com/h1fLjJp3/20260623-013624.webp",
           "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8",
-          "premium": false
+          "premium": true
         },
         {
           "name": "Bangla +",
