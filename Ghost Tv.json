@@ -32,6 +32,12 @@
       "name": "ꜱᴘᴏʀᴛꜱ",
       "movies": [
         {
+          "name": "CCTV",
+          "logo": "https://i.ibb.co.com/rKPkrtF8/cctv-logo-png-seeklogo-285713.webp",
+          "link": "https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8",
+          "premium": false
+        },
+        {
           "name": "Tsports",
           "logo": "https://i.ibb.co.com/Xmn5JpS/20260618-022013.webp",
           "link": "http://ubuntu.moonplex.net:8080/TSports_HD/index.m3u8",
