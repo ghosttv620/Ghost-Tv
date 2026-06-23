@@ -4,6 +4,12 @@
       "name": "Hindi Tv",
       "movies": [
         {
+          "name": "Travelxp",
+          "logo": "https://i.ibb.co.com/gF6XzHkK/20260623-122943.webp",
+          "link": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8",
+          "premium": false
+        },
+        {
           "name": "Dangal",
           "logo": "https://i.ibb.co.com/bR2SVTD0/20260623-125341.webp",
           "link": "https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_240p/chunks.m3u8",
@@ -108,12 +114,6 @@
     {
       "name": "Sports Tv",
       "movies": [
-        {
-          "name": "Travelxp",
-          "logo": "https://i.ibb.co.com/gF6XzHkK/20260623-122943.webp",
-          "link": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8",
-          "premium": false
-        },
         {
           "name": "CCTV",
           "logo": "https://i.ibb.co.com/VpCTKKPN/20260623-011131.webp",
