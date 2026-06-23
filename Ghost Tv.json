@@ -44,6 +44,12 @@
       "name": "Sports Tv",
       "movies": [
         {
+          "name": "Travelxp",
+          "logo": "https://i.ibb.co.com/gF6XzHkK/20260623-122943.webp",
+          "link": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8",
+          "premium": false
+        },
+        {
           "name": "CCTV",
           "logo": "https://i.ibb.co.com/VpCTKKPN/20260623-011131.webp",
           "link": "http://ubuntu.moonplex.net:8080/TSports_HD/index.m3u8",
