@@ -4,6 +4,12 @@
       "name": "Hits Music",
       "movies": [
         {
+          "name": "Baraza Music",
+          "logo": "https://i.ibb.co.com/1G6B8zMp/20260623-132133.webp",
+          "link": "https://eco.streams.ovh:8081/barazatv/index.m3u8",
+          "premium": false
+        },
+        {
           "name": "Balle Music",
           "logo": "https://i.ibb.co.com/4gZ3Ppsn/20260623-131700.webp",
           "link": "https://mcncdndigital.com/balleballetv/index.m3u8",
