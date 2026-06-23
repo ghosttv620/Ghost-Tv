@@ -45,6 +45,12 @@
       "name": "Kolkata Bangla",
       "movies": [
         {
+          "name": "Akash Aath",
+          "logo": "https://i.ibb.co.com/KzBK1BTz/20260623-125817.webp",
+          "link": "https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8",
+          "premium": true
+        },
+        {
           "name": "Star Jalsha",
           "logo": "https://i.ibb.co.com/Kx9q1q1w/20260622-195635.webp",
           "link": "https://tvsen3.aynaott.com/n64PH4YL/index.m3u8",
