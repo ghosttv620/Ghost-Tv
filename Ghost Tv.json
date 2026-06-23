@@ -2,7 +2,14 @@
   "categories": [
     {
       "name": "Hindi Tv",
-      "movies": []
+      "movies": [
+        {
+          "name": "shemaroo Josh",
+          "logo": "https://i.ibb.co.com/fzgBfLBj/20260623-130338.webp",
+          "link": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8",
+          "premium": false
+        }
+      ]
     },
     {
       "name": "Hits Music",
@@ -36,12 +43,6 @@
           "logo": "https://i.ibb.co.com/hFwdP17m/20260623-131007.webp",
           "link": "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8",
           "premium": true
-        },
-        {
-          "name": "shemaroo Josh",
-          "logo": "https://i.ibb.co.com/fzgBfLBj/20260623-130338.webp",
-          "link": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8",
-          "premium": false
         },
         {
           "name": "Dangal",
