@@ -4,6 +4,12 @@
       "name": "Hits Music",
       "movies": [
         {
+          "name": "Dangal",
+          "logo": "https://i.ibb.co.com/bR2SVTD0/20260623-125341.webp",
+          "link": "https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_240p/chunks.m3u8",
+          "premium": false
+        },
+        {
           "name": "9x Jalwa",
           "logo": "https://i.ibb.co.com/pv8Sb1jB/20260623-124952.webp",
           "link": "https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8",
