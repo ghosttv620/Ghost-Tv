@@ -4,12 +4,6 @@
       "name": "Hits Music",
       "movies": [
         {
-          "name": "Channel S",
-          "logo": "https://i.ibb.co.com/1t7HWqcc/20260623-094405.webp",
-          "link": "https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8?nimblesessionid=1082734625",
-          "premium": false
-        },
-        {
           "name": "Sangit Bangla",
           "logo": "https://i.ibb.co.com/sv3M5wk7/20260623-022938.webp",
           "link": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
@@ -73,6 +67,12 @@
     {
       "name": "ʙᴀɴɢʟᴀ ᴛᴠ",
       "movies": [
+        {
+          "name": "Channel S",
+          "logo": "https://i.ibb.co.com/1t7HWqcc/20260623-094405.webp",
+          "link": "https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8?nimblesessionid=1082734625",
+          "premium": false
+        },
         {
           "name": "Rajdhani Tv",
           "logo": "https://i.ibb.co.com/kVgtBGvK/20260623-021406.webp",
