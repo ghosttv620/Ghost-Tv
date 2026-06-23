@@ -4,6 +4,12 @@
       "name": "Hits Music",
       "movies": [
         {
+          "name": "Balle Music",
+          "logo": "https://i.ibb.co.com/4gZ3Ppsn/20260623-131700.webp",
+          "link": "https://mcncdndigital.com/balleballetv/index.m3u8",
+          "premium": true
+        },
+        {
           "name": "B4u Music",
           "logo": "https://i.ibb.co.com/hRzxmY1S/20260623-131346.webp",
           "link": "https://cdn-2.pishow.tv/live/415/master.m3u8",
