@@ -4,6 +4,12 @@
       "name": "Hits Music",
       "movies": [
         {
+          "name": "B4u Music",
+          "logo": "https://i.ibb.co.com/hRzxmY1S/20260623-131346.webp",
+          "link": "https://cdn-2.pishow.tv/live/415/master.m3u8",
+          "premium": true
+        },
+        {
           "name": "Bizo Music",
           "logo": "https://i.ibb.co.com/hFwdP17m/20260623-131007.webp",
           "link": "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8",
