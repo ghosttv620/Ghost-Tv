@@ -92,6 +92,12 @@
       "name": "Kolkata Bangla",
       "movies": [
         {
+          "name": "Rongeen Tv",
+          "logo": "https://i.ibb.co.com/prLVwx1q/20260624-081737.webp",
+          "link": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8",
+          "premium": true
+        },
+        {
           "name": "Calcutta News",
           "logo": "https://i.ibb.co.com/jPH6w1mr/20260624-081421.webp",
           "link": "https://akdnetwork.co.in/live/cnnew/index.m3u8",
