@@ -92,6 +92,12 @@
       "name": "Kolkata Bangla",
       "movies": [
         {
+          "name": "R Bangla",
+          "logo": "https://i.ibb.co.com/RkMfpFr6/20260624-082529.webp",
+          "link": "https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8",
+          "premium": true
+        },
+        {
           "name": "Tv9 Bangla",
           "logo": "https://i.ibb.co.com/k2nsQH9B/20260624-082121.webp",
           "link": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8",
