@@ -92,6 +92,12 @@
       "name": "Kolkata Bangla",
       "movies": [
         {
+          "name": "Tv9 Bangla",
+          "logo": "https://i.ibb.co.com/k2nsQH9B/20260624-082121.webp",
+          "link": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8",
+          "premium": false
+        },
+        {
           "name": "Rongeen Tv",
           "logo": "https://i.ibb.co.com/prLVwx1q/20260624-081737.webp",
           "link": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8",
