@@ -92,6 +92,12 @@
       "name": "Kolkata Bangla",
       "movies": [
         {
+          "name": "Banglajago",
+          "logo": "https://i.ibb.co.com/Hpx5WNty/20260624-080659.webp",
+          "link": "http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8",
+          "premium": false
+        },
+        {
           "name": "Akash Aath",
           "logo": "https://i.ibb.co.com/KzBK1BTz/20260623-125817.webp",
           "link": "https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8",
