@@ -108,7 +108,7 @@
           "name": "Joo Music",
           "logo": "https://i.ibb.co.com/tpJZQRyg/20260622-195020.webp",
           "link": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
-          "premium": false
+          "premium": true
         }
       ]
     },
