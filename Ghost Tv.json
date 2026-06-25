@@ -170,6 +170,12 @@
       "name": "Kolkata Bangla",
       "movies": [
         {
+          "name": "Aamar Bangla",
+          "logo": "https://i.ibb.co.com/0yVc14SY/20260625-111943.webp",
+          "link": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
+          "premium": false
+        },
+        {
           "name": "Zee 24 Ghanta",
           "logo": "https://i.ibb.co.com/gLyNHp93/20260624-204551.webp",
           "link": "https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8",
