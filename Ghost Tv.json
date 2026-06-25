@@ -27,6 +27,12 @@
       "name": "Hits Music",
       "movies": [
         {
+          "name": "9XM",
+          "logo": "https://i.ibb.co.com/jkS9FfD2/20260625-103314.webp",
+          "link": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
+          "premium": false
+        },
+        {
           "name": "Saga Haryanvi",
           "logo": "https://i.ibb.co.com/Jj46Dr8P/20260624-212931.webp",
           "link": "https://amg01412-xiaomiasia-sagamusicharyanvi-xiaomi-0v34j.amagi.tv/playlist/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8",
