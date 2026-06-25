@@ -27,6 +27,12 @@
       "name": "Hits Music",
       "movies": [
         {
+          "name": "Tunes 6",
+          "logo": "https://i.ibb.co.com/7N8LpzQt/20260625-110217.webp",
+          "link": "https://stream.d6-pro.com/tunes6music/live/video.m3u8",
+          "premium": false
+        },
+        {
           "name": "Steelbird Music",
           "logo": "https://i.ibb.co.com/k6sDn4jn/20260625-105854.webp",
           "link": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
