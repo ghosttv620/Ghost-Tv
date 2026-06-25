@@ -27,6 +27,12 @@
       "name": "Hits Music",
       "movies": [
         {
+          "name": "Zoom",
+          "logo": "https://i.ibb.co.com/5X9wbJXH/20260625-111121.webp",
+          "link": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
+          "premium": true
+        },
+        {
           "name": "ZB Music",
           "logo": "https://i.ibb.co.com/LDHZ1mJw/20260625-110821.webp",
           "link": "https://server.zillarbarta.com/zbmusic/index.m3u8",
