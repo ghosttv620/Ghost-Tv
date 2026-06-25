@@ -4,6 +4,12 @@
       "name": "Hindi Tv",
       "movies": [
         {
+          "name": "Zoom",
+          "logo": "https://i.ibb.co.com/5X9wbJXH/20260625-111121.webp",
+          "link": "https://i.ibb.co.com/5X9wbJXH/20260625-111121.webp",
+          "premium": false
+        },
+        {
           "name": "Travelxp",
           "logo": "https://i.ibb.co.com/gF6XzHkK/20260623-122943.webp",
           "link": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8",
