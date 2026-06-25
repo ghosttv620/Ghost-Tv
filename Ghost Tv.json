@@ -4,6 +4,12 @@
       "name": "Hindi Tv",
       "movies": [
         {
+          "name": "Punjabi Hits",
+          "logo": "https://i.ibb.co.com/Txn219hn/20260625-104555.webp",
+          "link": "https://stream.ottlive.co.in/punjabihits/index.m3u8",
+          "premium": true
+        },
+        {
           "name": "Travelxp",
           "logo": "https://i.ibb.co.com/gF6XzHkK/20260623-122943.webp",
           "link": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8",
