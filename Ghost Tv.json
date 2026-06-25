@@ -4,12 +4,6 @@
       "name": "Hindi Tv",
       "movies": [
         {
-          "name": "Sangeet Marathi",
-          "logo": "https://i.ibb.co.com/SXwxktbM/20260625-105552.webp",
-          "link": "https://cdn-3.pishow.tv/live/1229/master.m3u8",
-          "premium": false
-        },
-        {
           "name": "Travelxp",
           "logo": "https://i.ibb.co.com/gF6XzHkK/20260623-122943.webp",
           "link": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8",
@@ -32,6 +26,12 @@
     {
       "name": "Hits Music",
       "movies": [
+        {
+          "name": "Sangeet Marathi",
+          "logo": "https://i.ibb.co.com/SXwxktbM/20260625-105552.webp",
+          "link": "https://cdn-3.pishow.tv/live/1229/master.m3u8",
+          "premium": false
+        },
         {
           "name": "Sana Plus",
           "logo": "https://i.ibb.co.com/hxRx1Zyc/20260625-105135.webp",
