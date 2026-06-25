@@ -27,6 +27,12 @@
       "name": "Hits Music",
       "movies": [
         {
+          "name": "Vaanavil TV",
+          "logo": "https://i.ibb.co.com/wZzfpt5n/20260625-110545.webp",
+          "link": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8",
+          "premium": false
+        },
+        {
           "name": "Ultimate TV",
           "logo": "https://i.ibb.co.com/SwNKCtcx/20260625-110348.webp",
           "link": "https://stream.ottlive.co.in/utvtamil/index.m3u8",
