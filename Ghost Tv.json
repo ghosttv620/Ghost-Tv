@@ -29,12 +29,6 @@
         {
           "name": "Zoom",
           "logo": "https://i.ibb.co.com/5X9wbJXH/20260625-111121.webp",
-          "link": "https://i.ibb.co.com/5X9wbJXH/20260625-111121.webp",
-          "premium": false
-        },
-        {
-          "name": "Zoom",
-          "logo": "https://i.ibb.co.com/5X9wbJXH/20260625-111121.webp",
           "link": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
           "premium": true
         },
