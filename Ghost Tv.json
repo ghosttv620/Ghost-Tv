@@ -27,6 +27,12 @@
       "name": "Hits Music",
       "movies": [
         {
+          "name": "Steelbird Music",
+          "logo": "https://i.ibb.co.com/k6sDn4jn/20260625-105854.webp",
+          "link": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
+          "premium": true
+        },
+        {
           "name": "Sangeet Marathi",
           "logo": "https://i.ibb.co.com/SXwxktbM/20260625-105552.webp",
           "link": "https://cdn-3.pishow.tv/live/1229/master.m3u8",
