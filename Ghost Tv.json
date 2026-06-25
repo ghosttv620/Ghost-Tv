@@ -27,6 +27,12 @@
       "name": "Hits Music",
       "movies": [
         {
+          "name": "ZB Music",
+          "logo": "https://i.ibb.co.com/LDHZ1mJw/20260625-110821.webp",
+          "link": "https://server.zillarbarta.com/zbmusic/index.m3u8",
+          "premium": false
+        },
+        {
           "name": "Vaanavil TV",
           "logo": "https://i.ibb.co.com/wZzfpt5n/20260625-110545.webp",
           "link": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8",
