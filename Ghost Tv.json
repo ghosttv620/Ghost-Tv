@@ -27,6 +27,12 @@
       "name": "Hits Music",
       "movies": [
         {
+          "name": "Ultimate TV",
+          "logo": "https://i.ibb.co.com/SwNKCtcx/20260625-110348.webp",
+          "link": "https://stream.ottlive.co.in/utvtamil/index.m3u8",
+          "premium": true
+        },
+        {
           "name": "Tunes 6",
           "logo": "https://i.ibb.co.com/7N8LpzQt/20260625-110217.webp",
           "link": "https://stream.d6-pro.com/tunes6music/live/video.m3u8",
