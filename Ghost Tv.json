@@ -170,6 +170,12 @@
       "name": "Kolkata Bangla",
       "movies": [
         {
+          "name": "Zee Bangla",
+          "logo": "https://i.ibb.co.com/LXfZz6x9/20260627-220135.webp",
+          "link": "https://sm-monirul.top/toffee/play/zee_bangla.m3u8",
+          "premium": false
+        },
+        {
           "name": "Sony  আট",
           "logo": "https://i.ibb.co.com/HL9b8Rhc/20260627-114730.webp",
           "link": "https://sm-monirul.top/toffee/play/sonyaath.m3u8",
