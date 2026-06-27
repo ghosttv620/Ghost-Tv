@@ -4,6 +4,12 @@
       "name": "Hindi Tv",
       "movies": [
         {
+          "name": "Zee Cinema HD",
+          "logo": "https://i.ibb.co.com/bgXKkV1p/20260627-221115.webp",
+          "link": "https://sm-monirul.top/toffee/play/zee_cinema_hd.m3u8",
+          "premium": true
+        },
+        {
           "name": "StarPlus HD",
           "logo": "https://i.ibb.co.com/sQSMs0p/20260625-111623.webp",
           "link": "https://trs1.aynaott.com/starplushd/index.m3u8",
