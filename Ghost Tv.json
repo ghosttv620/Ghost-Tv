@@ -4,12 +4,6 @@
       "name": "Hindi Tv",
       "movies": [
         {
-          "name": "22",
-          "logo": "Hu",
-          "link": "https://sm-monirul.top/privet/bioscope/index.m3u8",
-          "premium": false
-        },
-        {
           "name": "T",
           "logo": "G",
           "link": "https://sm-monirul.top/tof/live/toffee1/index.m3u8",
