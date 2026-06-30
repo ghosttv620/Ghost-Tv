@@ -291,8 +291,8 @@
         {
           "name": "Somoy Tv",
           "logo": "https://i.ibb.co.com/7w2rF08/20260618-034915.webp",
-          "link": "https://mhbdtv.top/api/stream-proxy?url=http%3A%2F%2Frgkkw.live%3A80%2Flive%2F1Aoen7elp5%2FIgMJ60tmAa%2F130714.ts",
-          "premium": true
+          "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8",
+          "premium": false
         }
       ]
     },
