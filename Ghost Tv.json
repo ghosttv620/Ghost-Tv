@@ -4,6 +4,12 @@
       "name": "Hindi Tv",
       "movies": [
         {
+          "name": "WION",
+          "logo": "https://i.ibb.co.com/Kxv8BG7N/20260702-003516.webp",
+          "link": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+          "premium": false
+        },
+        {
           "name": "Sheemaroo",
           "logo": "https://i.ibb.co.com/S7xzq4GH/20260702-001357.webp",
           "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
