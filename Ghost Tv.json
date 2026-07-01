@@ -360,6 +360,12 @@
       "name": "Bangla Tv",
       "movies": [
         {
+          "name": "Ayna TV",
+          "logo": "https://i.ibb.co.com/mCjZ3LSV/20260702-002312.webp",
+          "link": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8",
+          "premium": false
+        },
+        {
           "name": "Srk Tv",
           "logo": "https://i.ibb.co.com/tPDgc9Xb/20260702-001804.webp",
           "link": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
