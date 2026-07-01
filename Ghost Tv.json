@@ -336,6 +336,12 @@
       "name": "Bangla Tv",
       "movies": [
         {
+          "name": "Madani Channel Bangla",
+          "logo": "https://i.ibb.co.com/4Rmfs1cM/20260701-180850.webp",
+          "link": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
+          "premium": false
+        },
+        {
           "name": "Peace TV Bangla",
           "logo": "https://i.ibb.co.com/DPqdSd35/20260701-180715.webp",
           "link": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
