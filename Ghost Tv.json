@@ -360,6 +360,12 @@
       "name": "Bangla Tv",
       "movies": [
         {
+          "name": "G-Serise",
+          "logo": "https://i.ibb.co.com/9ksmyVzz/20260702-002517.webp",
+          "link": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8",
+          "premium": false
+        },
+        {
           "name": "Ayna TV",
           "logo": "https://i.ibb.co.com/mCjZ3LSV/20260702-002312.webp",
           "link": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8",
