@@ -39,6 +39,12 @@
       "name": "Hits Music",
       "movies": [
         {
+          "name": "A2i Music",
+          "logo": "https://i.ibb.co.com/cKStnnmb/20260701-175002.webp",
+          "link": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
+          "premium": false
+        },
+        {
           "name": "7S Music",
           "logo": "https://i.ibb.co.com/Z6FC3FHb/20260701-174654.webp",
           "link": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
