@@ -39,6 +39,12 @@
       "name": "Hits Music",
       "movies": [
         {
+          "name": "7S Music",
+          "logo": "https://i.ibb.co.com/Z6FC3FHb/20260701-174654.webp",
+          "link": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
+          "premium": true
+        },
+        {
           "name": "4 Kurd",
           "logo": "https://i.ibb.co.com/pjYKL6pB/20260701-174406.webp",
           "link": "https://4kuhls.persiana.live/hls/stream.m3u8",
