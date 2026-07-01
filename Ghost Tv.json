@@ -360,6 +360,12 @@
       "name": "Bangla Tv",
       "movies": [
         {
+          "name": "Thikana",
+          "logo": "https://i.ibb.co.com/zTch6PBj/20260702-002856.webp",
+          "link": "https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8",
+          "premium": false
+        },
+        {
           "name": "G-Serise",
           "logo": "https://i.ibb.co.com/9ksmyVzz/20260702-002517.webp",
           "link": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8",
