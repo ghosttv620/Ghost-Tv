@@ -349,9 +349,9 @@
           "premium": true
         },
         {
-          "name": "Somoy Tv",
+          "name": "BD | SOMOY NEWS",
           "logo": "https://i.ibb.co.com/7w2rF08/20260618-034915.webp",
-          "link": "http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8",
+          "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8",
           "premium": false
         }
       ]
