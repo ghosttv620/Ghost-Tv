@@ -4,6 +4,12 @@
       "name": "Hindi Tv",
       "movies": [
         {
+          "name": "Bhojpuri Cinema",
+          "logo": "https://i.ibb.co.com/Pk6pyBg/20260702-000925.webp",
+          "link": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
+          "premium": false
+        },
+        {
           "name": "Sheemaroo Bollywood",
           "logo": "https://i.ibb.co.com/5xnPrNqG/20260702-000629.webp",
           "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
