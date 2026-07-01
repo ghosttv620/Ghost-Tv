@@ -39,6 +39,12 @@
       "name": "Hits Music",
       "movies": [
         {
+          "name": "Desi Channel",
+          "logo": "https://i.ibb.co.com/NdMSqkdH/20260701-182148.webp",
+          "link": "https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8",
+          "premium": true
+        },
+        {
           "name": "Afrobeats",
           "logo": "https://i.ibb.co.com/qL0H1crn/20260701-175437.webp",
           "link": "https://stream.ecable.tv/afrobeats/index.m3u8",
