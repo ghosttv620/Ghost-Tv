@@ -39,6 +39,12 @@
       "name": "Hits Music",
       "movies": [
         {
+          "name": "Afrobeats",
+          "logo": "https://i.ibb.co.com/qL0H1crn/20260701-175437.webp",
+          "link": "https://stream.ecable.tv/afrobeats/index.m3u8",
+          "premium": false
+        },
+        {
           "name": "Activa TV",
           "logo": "https://i.ibb.co.com/YTLRb0MQ/20260701-175229.webp",
           "link": "https://streamtv.mediasector.es/hls/activatv/index.m3u8",
