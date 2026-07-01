@@ -4,12 +4,6 @@
       "name": "Hindi Tv",
       "movies": [
         {
-          "name": "Srk Tv",
-          "logo": "https://i.ibb.co.com/tPDgc9Xb/20260702-001804.webp",
-          "link": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
-          "premium": false
-        },
-        {
           "name": "Sheemaroo",
           "logo": "https://i.ibb.co.com/S7xzq4GH/20260702-001357.webp",
           "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
@@ -365,6 +359,12 @@
     {
       "name": "Bangla Tv",
       "movies": [
+        {
+          "name": "Srk Tv",
+          "logo": "https://i.ibb.co.com/tPDgc9Xb/20260702-001804.webp",
+          "link": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
+          "premium": false
+        },
         {
           "name": "Madani Channel Bangla",
           "logo": "https://i.ibb.co.com/4Rmfs1cM/20260701-180850.webp",
