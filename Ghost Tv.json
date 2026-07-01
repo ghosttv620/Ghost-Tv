@@ -4,6 +4,12 @@
       "name": "Hindi Tv",
       "movies": [
         {
+          "name": "History TV18 HD Hindi",
+          "logo": "https://i.ibb.co.com/bjrkYrbx/20260702-003710.webp",
+          "link": "https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8",
+          "premium": false
+        },
+        {
           "name": "WION",
           "logo": "https://i.ibb.co.com/Kxv8BG7N/20260702-003516.webp",
           "link": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
