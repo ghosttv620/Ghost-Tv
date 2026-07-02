@@ -2,17 +2,18 @@
   "categories": [
     {
       "name": "Documentary",
-      "movies": []
-    },
-    {
-      "name": "Hindi Tv",
       "movies": [
         {
           "name": "BBC Earth",
           "logo": "https://i.ibb.co.com/JW0c3bHq/8f6cd51ec38e4f9ccab6a7350ba42d4ca9c429da-800.png",
           "link": "https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8",
           "premium": false
-        },
+        }
+      ]
+    },
+    {
+      "name": "Hindi Tv",
+      "movies": [
         {
           "name": "Discover Pakistan TV",
           "logo": "https://i.ibb.co.com/Kct0JF0f/cropped-DISCOVERY-PAKISTAN-LOGO-01.png",
