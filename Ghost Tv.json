@@ -1,6 +1,10 @@
 {
   "categories": [
     {
+      "name": "Documentary",
+      "movies": []
+    },
+    {
       "name": "Hindi Tv",
       "movies": [
         {
