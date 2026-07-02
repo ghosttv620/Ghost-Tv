@@ -254,6 +254,12 @@
       "name": "Kolkata Bangla",
       "movies": [
         {
+          "name": "ZB Cartoon",
+          "logo": "https://i.ibb.co.com/C3btTR44/edfaebe9084c7a7c494b0e61a48aad39.png",
+          "link": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+          "premium": false
+        },
+        {
           "name": "Khushboo Bangla",
           "logo": "https://i.ibb.co.com/fGvqcFrb/20260701-180400.webp",
           "link": "https://cdn-4.pishow.tv/live/1473/master.m3u8",
