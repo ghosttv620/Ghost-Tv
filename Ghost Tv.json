@@ -92,8 +92,9 @@
         {
           "name": "Star Jalsha",
           "logo": "https://i.ibb.co.com/Kx9q1q1w/20260622-195635.webp",
-          "link": "https://tvsen4.aynaott.com/n64PH4YL/index.m3u8",
-          "premium": true
+          "link": "http://180.94.28.28:8097//STAR-JALSHA/tracks-a1/index.fmp4.m3u8",
+          "premium": true,
+          "hidden": false
         },
         {
           "name": "Enter 10",
