@@ -381,9 +381,9 @@
         {
           "name": "Tsports",
           "logo": "https://i.ibb.co.com/Xmn5JpS/20260618-022013.webp",
-          "link": "https://tv.beyondtaxconsultants.com/api/proxy?url=http://198.195.239.50:8095/tsports/index.m3u8",
+          "link": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
           "premium": true,
-          "hidden": true
+          "hidden": false
         },
         {
           "name": "Fox Five",
