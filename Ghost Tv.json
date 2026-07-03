@@ -4,6 +4,13 @@
       "name": "Kolkata Bangla",
       "movies": [
         {
+          "name": "Sananda",
+          "logo": "https://i.ibb.co.com/gbdCP5YS/Sananda-TV-Logo.webp",
+          "link": "https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8",
+          "premium": false,
+          "hidden": true
+        },
+        {
           "name": "ZB Cartoon",
           "logo": "https://i.ibb.co.com/C3btTR44/edfaebe9084c7a7c494b0e61a48aad39.png",
           "link": "https://server.zillarbarta.com/zbcatun/video.m3u8",
