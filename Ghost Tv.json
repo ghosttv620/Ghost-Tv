@@ -549,6 +549,13 @@
       "name": "Documentary",
       "movies": [
         {
+          "name": "REAL WILD",
+          "logo": "https://i.ibb.co.com/35rmmF9L/Hero-Real-Wild-Simon-Tuquabo.webp",
+          "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
           "name": "Wild Earth",
           "logo": "https://i.ibb.co.com/ZRQ602wn/20240823-023726-1.webp",
           "link": "https://wildearth-plex.amagi.tv/master.m3u8",
