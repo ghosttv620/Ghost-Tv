@@ -4,6 +4,13 @@
       "name": "Sports Tv",
       "movies": [
         {
+          "name": "Euro Sports",
+          "logo": "https://i.ibb.co.com/svc0FSzY/images.webp",
+          "link": "https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
           "name": "Toffee Fifa",
           "logo": "https://i.ibb.co.com/23JnTXt7/20260625-020533.webp",
           "link": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8",
