@@ -1,6 +1,48 @@
 {
   "categories": [
     {
+      "name": "Sports Tv",
+      "movies": [
+        {
+          "name": "Toffee Fifa",
+          "logo": "https://i.ibb.co.com/23JnTXt7/20260625-020533.webp",
+          "link": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8",
+          "premium": true
+        },
+        {
+          "name": "FIFA 2026",
+          "logo": "https://i.ibb.co.com/jdBTJW7/20260624-210243.webp",
+          "link": "https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8",
+          "premium": true
+        },
+        {
+          "name": "CCTV",
+          "logo": "https://i.ibb.co.com/VpCTKKPN/20260623-011131.webp",
+          "link": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+          "premium": true
+        },
+        {
+          "name": "Tsports",
+          "logo": "https://i.ibb.co.com/Xmn5JpS/20260618-022013.webp",
+          "link": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
+          "premium": true,
+          "hidden": false
+        },
+        {
+          "name": "Fox Five",
+          "logo": "https://i.ibb.co.com/dqyg4KF/20260622-161213.webp",
+          "link": "https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8",
+          "premium": true
+        },
+        {
+          "name": "BD | SOMOY NEWS",
+          "logo": "https://i.ibb.co.com/7w2rF08/20260618-034915.webp",
+          "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8",
+          "premium": false
+        }
+      ]
+    },
+    {
       "name": "Kolkata Bangla",
       "movies": [
         {
@@ -354,48 +396,6 @@
           "logo": "https://i.ibb.co.com/tpJZQRyg/20260622-195020.webp",
           "link": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
           "premium": true
-        }
-      ]
-    },
-    {
-      "name": "Sports Tv",
-      "movies": [
-        {
-          "name": "Toffee Fifa",
-          "logo": "https://i.ibb.co.com/23JnTXt7/20260625-020533.webp",
-          "link": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8",
-          "premium": true
-        },
-        {
-          "name": "FIFA 2026",
-          "logo": "https://i.ibb.co.com/jdBTJW7/20260624-210243.webp",
-          "link": "https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8",
-          "premium": true
-        },
-        {
-          "name": "CCTV",
-          "logo": "https://i.ibb.co.com/VpCTKKPN/20260623-011131.webp",
-          "link": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
-          "premium": true
-        },
-        {
-          "name": "Tsports",
-          "logo": "https://i.ibb.co.com/Xmn5JpS/20260618-022013.webp",
-          "link": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
-          "premium": true,
-          "hidden": false
-        },
-        {
-          "name": "Fox Five",
-          "logo": "https://i.ibb.co.com/dqyg4KF/20260622-161213.webp",
-          "link": "https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8",
-          "premium": true
-        },
-        {
-          "name": "BD | SOMOY NEWS",
-          "logo": "https://i.ibb.co.com/7w2rF08/20260618-034915.webp",
-          "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8",
-          "premium": false
         }
       ]
     },
