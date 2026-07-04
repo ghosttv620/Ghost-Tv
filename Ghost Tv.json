@@ -411,6 +411,13 @@
       "name": "Bangla Tv",
       "movies": [
         {
+          "name": "ATN Music",
+          "logo": "https://i.ibb.co.com/NdPJkgrH/maxresdefault-live.webp",
+          "link": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
           "name": "Thikana",
           "logo": "https://i.ibb.co.com/zTch6PBj/20260702-002856.webp",
           "link": "https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8",
