@@ -1,6 +1,85 @@
 {
   "categories": [
     {
+      "name": "Hindi Tv",
+      "movies": [
+        {
+          "name": "NEWS | Zee Hindustan",
+          "logo": "https://i.ibb.co.com/QvNhWNBw/20260702-170243.webp",
+          "link": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8",
+          "premium": false
+        },
+        {
+          "name": "MOV | Hindi",
+          "logo": "https://i.ibb.co.com/Xr27bxxj/20260702-003907.webp",
+          "link": "https://vods2.aynaott.com/hindimovies/index.m3u8",
+          "premium": false
+        },
+        {
+          "name": "History TV18 HD Hindi",
+          "logo": "https://i.ibb.co.com/bjrkYrbx/20260702-003710.webp",
+          "link": "https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8",
+          "premium": false
+        },
+        {
+          "name": "WION",
+          "logo": "https://i.ibb.co.com/Kxv8BG7N/20260702-003516.webp",
+          "link": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Sheemaroo",
+          "logo": "https://i.ibb.co.com/S7xzq4GH/20260702-001357.webp",
+          "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Bhojpuri Cinema",
+          "logo": "https://i.ibb.co.com/Pk6pyBg/20260702-000925.webp",
+          "link": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Sheemaroo Bollywood",
+          "logo": "https://i.ibb.co.com/5xnPrNqG/20260702-000629.webp",
+          "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
+          "premium": true
+        },
+        {
+          "name": "Zee Cinema HD",
+          "logo": "https://i.ibb.co.com/bgXKkV1p/20260627-221115.webp",
+          "link": "https://sm-monirul.top/toffee/play/zee_cinema_hd.m3u8",
+          "premium": true,
+          "hidden": true
+        },
+        {
+          "name": "StarPlus HD",
+          "logo": "https://i.ibb.co.com/sQSMs0p/20260625-111623.webp",
+          "link": "https://trs1.aynaott.com/starplushd/index.m3u8",
+          "premium": true,
+          "hidden": true
+        },
+        {
+          "name": "Travelxp",
+          "logo": "https://i.ibb.co.com/gF6XzHkK/20260623-122943.webp",
+          "link": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Dangal",
+          "logo": "https://i.ibb.co.com/bR2SVTD0/20260623-125341.webp",
+          "link": "https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_240p/chunks.m3u8",
+          "premium": false
+        },
+        {
+          "name": "shemaroo Josh",
+          "logo": "https://i.ibb.co.com/fzgBfLBj/20260623-130338.webp",
+          "link": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8",
+          "premium": false
+        }
+      ]
+    },
+    {
       "name": "Kolkata Bangla",
       "movies": [
         {
@@ -152,85 +231,6 @@
           "name": "BD | SOMOY NEWS",
           "logo": "https://i.ibb.co.com/7w2rF08/20260618-034915.webp",
           "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8",
-          "premium": false
-        }
-      ]
-    },
-    {
-      "name": "Hindi Tv",
-      "movies": [
-        {
-          "name": "NEWS | Zee Hindustan",
-          "logo": "https://i.ibb.co.com/QvNhWNBw/20260702-170243.webp",
-          "link": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8",
-          "premium": false
-        },
-        {
-          "name": "MOV | Hindi",
-          "logo": "https://i.ibb.co.com/Xr27bxxj/20260702-003907.webp",
-          "link": "https://vods2.aynaott.com/hindimovies/index.m3u8",
-          "premium": false
-        },
-        {
-          "name": "History TV18 HD Hindi",
-          "logo": "https://i.ibb.co.com/bjrkYrbx/20260702-003710.webp",
-          "link": "https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8",
-          "premium": false
-        },
-        {
-          "name": "WION",
-          "logo": "https://i.ibb.co.com/Kxv8BG7N/20260702-003516.webp",
-          "link": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Sheemaroo",
-          "logo": "https://i.ibb.co.com/S7xzq4GH/20260702-001357.webp",
-          "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Bhojpuri Cinema",
-          "logo": "https://i.ibb.co.com/Pk6pyBg/20260702-000925.webp",
-          "link": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Sheemaroo Bollywood",
-          "logo": "https://i.ibb.co.com/5xnPrNqG/20260702-000629.webp",
-          "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
-          "premium": true
-        },
-        {
-          "name": "Zee Cinema HD",
-          "logo": "https://i.ibb.co.com/bgXKkV1p/20260627-221115.webp",
-          "link": "https://sm-monirul.top/toffee/play/zee_cinema_hd.m3u8",
-          "premium": true,
-          "hidden": true
-        },
-        {
-          "name": "StarPlus HD",
-          "logo": "https://i.ibb.co.com/sQSMs0p/20260625-111623.webp",
-          "link": "https://trs1.aynaott.com/starplushd/index.m3u8",
-          "premium": true,
-          "hidden": true
-        },
-        {
-          "name": "Travelxp",
-          "logo": "https://i.ibb.co.com/gF6XzHkK/20260623-122943.webp",
-          "link": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Dangal",
-          "logo": "https://i.ibb.co.com/bR2SVTD0/20260623-125341.webp",
-          "link": "https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_240p/chunks.m3u8",
-          "premium": false
-        },
-        {
-          "name": "shemaroo Josh",
-          "logo": "https://i.ibb.co.com/fzgBfLBj/20260623-130338.webp",
-          "link": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8",
           "premium": false
         }
       ]
