@@ -1,6 +1,63 @@
 {
   "categories": [
     {
+      "name": "Sports Tv",
+      "movies": [
+        {
+          "name": "Euro Sports",
+          "logo": "https://i.ibb.co.com/svc0FSzY/images.webp",
+          "link": "https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
+          "name": "Toffee Fifa",
+          "logo": "https://i.ibb.co.com/23JnTXt7/20260625-020533.webp",
+          "link": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8",
+          "premium": true
+        },
+        {
+          "name": "FIFA 2026",
+          "logo": "https://i.ibb.co.com/jdBTJW7/20260624-210243.webp",
+          "link": "https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
+          "name": "CCTV",
+          "logo": "https://i.ibb.co.com/VpCTKKPN/20260623-011131.webp",
+          "link": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+          "premium": true
+        },
+        {
+          "name": "Tsports",
+          "logo": "https://i.ibb.co.com/Xmn5JpS/20260618-022013.webp",
+          "link": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
+          "name": "Fox Five",
+          "logo": "https://i.ibb.co.com/dqyg4KF/20260622-161213.webp",
+          "link": "https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8",
+          "premium": true
+        },
+        {
+          "name": "BD | SOMOY NEWS",
+          "logo": "https://i.ibb.co.com/7w2rF08/20260618-034915.webp",
+          "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8",
+          "premium": false
+        },
+        {
+          "name": "XXX",
+          "logo": "XXX",
+          "link": "XXX",
+          "premium": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
       "name": "Kolkata Bangla",
       "movies": [
         {
@@ -231,63 +288,6 @@
           "logo": "https://i.ibb.co.com/fzgBfLBj/20260623-130338.webp",
           "link": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8",
           "premium": false
-        }
-      ]
-    },
-    {
-      "name": "Sports Tv",
-      "movies": [
-        {
-          "name": "Euro Sports",
-          "logo": "https://i.ibb.co.com/svc0FSzY/images.webp",
-          "link": "https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8",
-          "premium": false,
-          "hidden": false
-        },
-        {
-          "name": "Toffee Fifa",
-          "logo": "https://i.ibb.co.com/23JnTXt7/20260625-020533.webp",
-          "link": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8",
-          "premium": true
-        },
-        {
-          "name": "FIFA 2026",
-          "logo": "https://i.ibb.co.com/jdBTJW7/20260624-210243.webp",
-          "link": "https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8",
-          "premium": false,
-          "hidden": false
-        },
-        {
-          "name": "CCTV",
-          "logo": "https://i.ibb.co.com/VpCTKKPN/20260623-011131.webp",
-          "link": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
-          "premium": true
-        },
-        {
-          "name": "Tsports",
-          "logo": "https://i.ibb.co.com/Xmn5JpS/20260618-022013.webp",
-          "link": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8",
-          "premium": false,
-          "hidden": false
-        },
-        {
-          "name": "Fox Five",
-          "logo": "https://i.ibb.co.com/dqyg4KF/20260622-161213.webp",
-          "link": "https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8",
-          "premium": true
-        },
-        {
-          "name": "BD | SOMOY NEWS",
-          "logo": "https://i.ibb.co.com/7w2rF08/20260618-034915.webp",
-          "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8",
-          "premium": false
-        },
-        {
-          "name": "XXX",
-          "logo": "XXX",
-          "link": "XXX",
-          "premium": false,
-          "hidden": false
         }
       ]
     },
