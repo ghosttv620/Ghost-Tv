@@ -47,13 +47,6 @@
           "logo": "https://i.ibb.co.com/7w2rF08/20260618-034915.webp",
           "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8",
           "premium": false
-        },
-        {
-          "name": "XXX",
-          "logo": "XXX",
-          "link": "XXX",
-          "premium": false,
-          "hidden": false
         }
       ]
     },
@@ -160,13 +153,6 @@
           "logo": "https://i.ibb.co.com/xtmM79Yz/20260622-193452.webp",
           "link": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
           "premium": true
-        },
-        {
-          "name": "XXX",
-          "logo": "XXX",
-          "link": "XXX",
-          "premium": false,
-          "hidden": false
         }
       ]
     },
@@ -461,13 +447,6 @@
           "logo": "https://i.ibb.co.com/tpJZQRyg/20260622-195020.webp",
           "link": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
           "premium": true
-        },
-        {
-          "name": "XXX",
-          "logo": "XXX",
-          "link": "XXX",
-          "premium": false,
-          "hidden": false
         }
       ]
     },
