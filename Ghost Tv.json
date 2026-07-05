@@ -4,6 +4,13 @@
       "name": "Hindi Tv",
       "movies": [
         {
+          "name": "Sony Entertainment",
+          "logo": "https://i.ibb.co.com/Xfxcr77B/images-4.webp",
+          "link": "https://obiramtv.pro.bd/toffee/play/sony_entertainment.m3u8",
+          "premium": true,
+          "hidden": false
+        },
+        {
           "name": "Sony Max Hd",
           "logo": "https://i.ibb.co.com/8ZCdGHG/images-3.webp",
           "link": "https://obiramtv.pro.bd/toffee/play/sony_max_hd.m3u8",
