@@ -41,8 +41,9 @@
         {
           "name": "Fox Five",
           "logo": "https://i.ibb.co.com/dqyg4KF/20260622-161213.webp",
-          "link": "https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8",
-          "premium": true
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+          "premium": true,
+          "hidden": false
         },
         {
           "name": "BD | SOMOY NEWS",
