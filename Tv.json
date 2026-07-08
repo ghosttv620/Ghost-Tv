@@ -390,6 +390,13 @@
           "logo": "https://i.ibb.co.com/1t7HWqcc/20260623-094405.webp",
           "link": "https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8",
           "premium": false
+        },
+        {
+          "name": "Tsports",
+          "logo": "https://i.ibb.co.com/Xmn5JpS/20260618-022013.webp",
+          "link": "https://bdixserver.tvhunter.top/ant1004/tracks-v1a1/mono.m3u8",
+          "premium": false,
+          "hidden": false
         }
       ]
     },
