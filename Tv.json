@@ -4,6 +4,13 @@
       "name": "Cartoons",
       "movies": [
         {
+          "name": "PBS Kids",
+          "logo": "https://i.ibb.co.com/01gmWfz/images-1.webp",
+          "link": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_DVR.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
           "name": "Kids Stars",
           "logo": "https://i.ibb.co.com/wbtDtz3/Large-Kids-Stars-logohq-png-78383e6209113513ce959671d3494e14.webp",
           "link": "https://nomawnoijl.gpcdn.net/akash/kidsstars/chunks.m3u8",
