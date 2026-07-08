@@ -1,6 +1,10 @@
 {
   "categories": [
     {
+      "name": "Cartoons",
+      "movies": []
+    },
+    {
       "name": "Sports Tv",
       "movies": [
         {
