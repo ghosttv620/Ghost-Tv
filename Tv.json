@@ -2,7 +2,15 @@
   "categories": [
     {
       "name": "Cartoons",
-      "movies": []
+      "movies": [
+        {
+          "name": "Nikky",
+          "logo": "https://i.ibb.co.com/wZJvyBjW/NIKKY-CHANNEL-OFFICIAL.jpg",
+          "link": "https://nomawnoijl.gpcdn.net/akash/nikky/chunks.m3u8",
+          "premium": false,
+          "hidden": false
+        }
+      ]
     },
     {
       "name": "Sports Tv",
