@@ -122,6 +122,112 @@
       ]
     },
     {
+      "name": "Kolkata Bangla",
+      "movies": [
+        {
+          "name": "Sananda",
+          "logo": "https://i.ibb.co.com/gbdCP5YS/Sananda-TV-Logo.webp",
+          "link": "https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
+          "name": "ZB Cartoon",
+          "logo": "https://i.ibb.co.com/C3btTR44/edfaebe9084c7a7c494b0e61a48aad39.png",
+          "link": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Khushboo Bangla",
+          "logo": "https://i.ibb.co.com/fGvqcFrb/20260701-180400.webp",
+          "link": "https://cdn-4.pishow.tv/live/1473/master.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Z বাংলা সোনার",
+          "logo": "https://i.ibb.co.com/WJn4QnB/20260627-220728.webp",
+          "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
+          "name": "Zee Bangla",
+          "logo": "https://i.ibb.co.com/LXfZz6x9/20260627-220135.webp",
+          "link": "https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Sony  আট",
+          "logo": "https://i.ibb.co.com/HL9b8Rhc/20260627-114730.webp",
+          "link": "https://obiramtv.pro.bd/toffee/play/sonyaath.m3u8",
+          "premium": true,
+          "hidden": false
+        },
+        {
+          "name": "Aamar Bangla",
+          "logo": "https://i.ibb.co.com/0yVc14SY/20260625-111943.webp",
+          "link": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Zee 24 Ghanta",
+          "logo": "https://i.ibb.co.com/gLyNHp93/20260624-204551.webp",
+          "link": "https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8",
+          "premium": false
+        },
+        {
+          "name": "R Bangla",
+          "logo": "https://i.ibb.co.com/RkMfpFr6/20260624-082529.webp",
+          "link": "https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8",
+          "premium": true
+        },
+        {
+          "name": "Tv9 Bangla",
+          "logo": "https://i.ibb.co.com/k2nsQH9B/20260624-082121.webp",
+          "link": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Rongeen Tv",
+          "logo": "https://i.ibb.co.com/prLVwx1q/20260624-081737.webp",
+          "link": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8",
+          "premium": true
+        },
+        {
+          "name": "Calcutta News",
+          "logo": "https://i.ibb.co.com/jPH6w1mr/20260624-081421.webp",
+          "link": "https://akdnetwork.co.in/live/cnnew/index.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Banglajago",
+          "logo": "https://i.ibb.co.com/Hpx5WNty/20260624-080659.webp",
+          "link": "http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8",
+          "premium": false,
+          "hidden": true
+        },
+        {
+          "name": "Akash Aath",
+          "logo": "https://i.ibb.co.com/KzBK1BTz/20260623-125817.webp",
+          "link": "https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8",
+          "premium": true
+        },
+        {
+          "name": "Star Jalsha",
+          "logo": "https://i.ibb.co.com/Kx9q1q1w/20260622-195635.webp",
+          "link": "https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8",
+          "premium": true,
+          "hidden": false
+        },
+        {
+          "name": "Enter 10",
+          "logo": "https://i.ibb.co.com/xtmM79Yz/20260622-193452.webp",
+          "link": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
+          "premium": true
+        }
+      ]
+    },
+    {
       "name": "Akash Go",
       "movies": [
         {
@@ -564,112 +670,6 @@
           "name": "Joo Music",
           "logo": "https://i.ibb.co.com/tpJZQRyg/20260622-195020.webp",
           "link": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
-          "premium": true
-        }
-      ]
-    },
-    {
-      "name": "Kolkata Bangla",
-      "movies": [
-        {
-          "name": "Sananda",
-          "logo": "https://i.ibb.co.com/gbdCP5YS/Sananda-TV-Logo.webp",
-          "link": "https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8",
-          "premium": false,
-          "hidden": false
-        },
-        {
-          "name": "ZB Cartoon",
-          "logo": "https://i.ibb.co.com/C3btTR44/edfaebe9084c7a7c494b0e61a48aad39.png",
-          "link": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Khushboo Bangla",
-          "logo": "https://i.ibb.co.com/fGvqcFrb/20260701-180400.webp",
-          "link": "https://cdn-4.pishow.tv/live/1473/master.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Z বাংলা সোনার",
-          "logo": "https://i.ibb.co.com/WJn4QnB/20260627-220728.webp",
-          "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8",
-          "premium": false,
-          "hidden": false
-        },
-        {
-          "name": "Zee Bangla",
-          "logo": "https://i.ibb.co.com/LXfZz6x9/20260627-220135.webp",
-          "link": "https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Sony  আট",
-          "logo": "https://i.ibb.co.com/HL9b8Rhc/20260627-114730.webp",
-          "link": "https://obiramtv.pro.bd/toffee/play/sonyaath.m3u8",
-          "premium": true,
-          "hidden": false
-        },
-        {
-          "name": "Aamar Bangla",
-          "logo": "https://i.ibb.co.com/0yVc14SY/20260625-111943.webp",
-          "link": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Zee 24 Ghanta",
-          "logo": "https://i.ibb.co.com/gLyNHp93/20260624-204551.webp",
-          "link": "https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8",
-          "premium": false
-        },
-        {
-          "name": "R Bangla",
-          "logo": "https://i.ibb.co.com/RkMfpFr6/20260624-082529.webp",
-          "link": "https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8",
-          "premium": true
-        },
-        {
-          "name": "Tv9 Bangla",
-          "logo": "https://i.ibb.co.com/k2nsQH9B/20260624-082121.webp",
-          "link": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Rongeen Tv",
-          "logo": "https://i.ibb.co.com/prLVwx1q/20260624-081737.webp",
-          "link": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8",
-          "premium": true
-        },
-        {
-          "name": "Calcutta News",
-          "logo": "https://i.ibb.co.com/jPH6w1mr/20260624-081421.webp",
-          "link": "https://akdnetwork.co.in/live/cnnew/index.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Banglajago",
-          "logo": "https://i.ibb.co.com/Hpx5WNty/20260624-080659.webp",
-          "link": "http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8",
-          "premium": false,
-          "hidden": true
-        },
-        {
-          "name": "Akash Aath",
-          "logo": "https://i.ibb.co.com/KzBK1BTz/20260623-125817.webp",
-          "link": "https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8",
-          "premium": true
-        },
-        {
-          "name": "Star Jalsha",
-          "logo": "https://i.ibb.co.com/Kx9q1q1w/20260622-195635.webp",
-          "link": "https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8",
-          "premium": true,
-          "hidden": false
-        },
-        {
-          "name": "Enter 10",
-          "logo": "https://i.ibb.co.com/xtmM79Yz/20260622-193452.webp",
-          "link": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
           "premium": true
         }
       ]
