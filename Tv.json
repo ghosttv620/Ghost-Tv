@@ -4,6 +4,13 @@
       "name": "Sports Tv",
       "movies": [
         {
+          "name": "Sony Sports 1",
+          "logo": "https://i.ibb.co.com/dsybZ1nT/images-1.webp",
+          "link": "https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
           "name": "Euro Sports",
           "logo": "https://i.ibb.co.com/svc0FSzY/images.webp",
           "link": "https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8",
