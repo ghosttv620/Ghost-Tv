@@ -1,6 +1,179 @@
 {
   "categories": [
     {
+      "name": "Bangla Tv",
+      "movies": [
+        {
+          "name": "ATN Music",
+          "logo": "https://i.ibb.co.com/NdPJkgrH/maxresdefault-live.webp",
+          "link": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
+          "name": "Thikana",
+          "logo": "https://i.ibb.co.com/zTch6PBj/20260702-002856.webp",
+          "link": "https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8",
+          "premium": false
+        },
+        {
+          "name": "G-Serise",
+          "logo": "https://i.ibb.co.com/9ksmyVzz/20260702-002517.webp",
+          "link": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Ayna TV",
+          "logo": "https://i.ibb.co.com/mCjZ3LSV/20260702-002312.webp",
+          "link": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Srk Tv",
+          "logo": "https://i.ibb.co.com/tPDgc9Xb/20260702-001804.webp",
+          "link": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Madani Channel Bangla",
+          "logo": "https://i.ibb.co.com/4Rmfs1cM/20260701-180850.webp",
+          "link": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Peace TV Bangla",
+          "logo": "https://i.ibb.co.com/DPqdSd35/20260701-180715.webp",
+          "link": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Rtv",
+          "logo": "https://i.ibb.co.com/Xfk2jByM/20260628-020324.webp",
+          "link": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Green Tv",
+          "logo": "https://i.ibb.co.com/G4KZ9yqD/20260628-020003.webp",
+          "link": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8",
+          "premium": true,
+          "hidden": false
+        },
+        {
+          "name": "Channel 1 TV",
+          "logo": "https://i.ibb.co.com/TqBtZRyF/20260628-015213.webp",
+          "link": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Boishakhi TV",
+          "logo": "https://i.ibb.co.com/5WKbrF5K/20260628-014516.webp",
+          "link": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Gtv",
+          "logo": "https://i.ibb.co.com/FL36ryZ6/20260628-014100.webp",
+          "link": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Etv",
+          "logo": "https://i.ibb.co.com/Ldrk3ps4/20260624-080955.webp",
+          "link": "http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+          "premium": true,
+          "hidden": true
+        },
+        {
+          "name": "Rajdhani Tv",
+          "logo": "https://i.ibb.co.com/kVgtBGvK/20260623-021406.webp",
+          "link": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Mohona Tv",
+          "logo": "https://i.ibb.co.com/RkrGYt9j/20260623-020811.webp",
+          "link": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8",
+          "premium": true
+        },
+        {
+          "name": "Bijoy Tv",
+          "logo": "https://i.ibb.co.com/zWxGvCcG/20260623-020438.webp",
+          "link": "https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Global Tv",
+          "logo": "https://i.ibb.co.com/jk75sJ9b/20260623-015954.webp",
+          "link": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8",
+          "premium": true,
+          "hidden": false
+        },
+        {
+          "name": "Bangla Tv",
+          "logo": "https://i.ibb.co.com/V0MJDLmq/20260623-015601.webp",
+          "link": "https://stream.ottplus.live/live/bangla_tv_hd_abr/live/bangla_tv_hd_720/chunks.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Ananda Tv",
+          "logo": "https://i.ibb.co.com/Q7G44Gp0/20260623-015129.webp",
+          "link": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Channel 9",
+          "logo": "https://i.ibb.co.com/h1fLjJp3/20260623-013624.webp",
+          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8",
+          "premium": true
+        },
+        {
+          "name": "Bangla +",
+          "logo": "https://i.ibb.co.com/jvfMvpZL/20260622-192950.webp",
+          "link": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Somoy Tv",
+          "logo": "https://i.ibb.co.com/7w2rF08/20260618-034915.webp",
+          "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
+          "premium": true
+        },
+        {
+          "name": "Movie Bangla",
+          "logo": "https://i.ibb.co.com/rGCQ14yK/20260618-021225.webp",
+          "link": "https://bestiptv.bestiptv-pro.workers.dev/?url=http://alvetv.com/moviebanglatv/8080/index.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Tsports",
+          "logo": "https://i.ibb.co.com/Xmn5JpS/20260618-022013.webp",
+          "link": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
+          "name": "BD | SOMOY NEWS",
+          "logo": "https://i.ibb.co.com/7w2rF08/20260618-034915.webp",
+          "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Unmochon Tv",
+          "logo": "https://i.ibb.co.com/wNvGkK81/images-6.webp",
+          "link": "https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
+          "name": "Channel S",
+          "logo": "https://i.ibb.co.com/1t7HWqcc/20260623-094405.webp",
+          "link": "https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8",
+          "premium": false
+        }
+      ]
+    },
+    {
       "name": "Cartoons",
       "movies": [
         {
@@ -594,179 +767,6 @@
           "logo": "https://i.ibb.co.com/tpJZQRyg/20260622-195020.webp",
           "link": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
           "premium": true
-        }
-      ]
-    },
-    {
-      "name": "Bangla Tv",
-      "movies": [
-        {
-          "name": "ATN Music",
-          "logo": "https://i.ibb.co.com/NdPJkgrH/maxresdefault-live.webp",
-          "link": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
-          "premium": false,
-          "hidden": false
-        },
-        {
-          "name": "Thikana",
-          "logo": "https://i.ibb.co.com/zTch6PBj/20260702-002856.webp",
-          "link": "https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8",
-          "premium": false
-        },
-        {
-          "name": "G-Serise",
-          "logo": "https://i.ibb.co.com/9ksmyVzz/20260702-002517.webp",
-          "link": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Ayna TV",
-          "logo": "https://i.ibb.co.com/mCjZ3LSV/20260702-002312.webp",
-          "link": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Srk Tv",
-          "logo": "https://i.ibb.co.com/tPDgc9Xb/20260702-001804.webp",
-          "link": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Madani Channel Bangla",
-          "logo": "https://i.ibb.co.com/4Rmfs1cM/20260701-180850.webp",
-          "link": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Peace TV Bangla",
-          "logo": "https://i.ibb.co.com/DPqdSd35/20260701-180715.webp",
-          "link": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Rtv",
-          "logo": "https://i.ibb.co.com/Xfk2jByM/20260628-020324.webp",
-          "link": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Green Tv",
-          "logo": "https://i.ibb.co.com/G4KZ9yqD/20260628-020003.webp",
-          "link": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8",
-          "premium": true,
-          "hidden": false
-        },
-        {
-          "name": "Channel 1 TV",
-          "logo": "https://i.ibb.co.com/TqBtZRyF/20260628-015213.webp",
-          "link": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Boishakhi TV",
-          "logo": "https://i.ibb.co.com/5WKbrF5K/20260628-014516.webp",
-          "link": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Gtv",
-          "logo": "https://i.ibb.co.com/FL36ryZ6/20260628-014100.webp",
-          "link": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Etv",
-          "logo": "https://i.ibb.co.com/Ldrk3ps4/20260624-080955.webp",
-          "link": "http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
-          "premium": true,
-          "hidden": true
-        },
-        {
-          "name": "Rajdhani Tv",
-          "logo": "https://i.ibb.co.com/kVgtBGvK/20260623-021406.webp",
-          "link": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Mohona Tv",
-          "logo": "https://i.ibb.co.com/RkrGYt9j/20260623-020811.webp",
-          "link": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8",
-          "premium": true
-        },
-        {
-          "name": "Bijoy Tv",
-          "logo": "https://i.ibb.co.com/zWxGvCcG/20260623-020438.webp",
-          "link": "https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Global Tv",
-          "logo": "https://i.ibb.co.com/jk75sJ9b/20260623-015954.webp",
-          "link": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8",
-          "premium": true,
-          "hidden": false
-        },
-        {
-          "name": "Bangla Tv",
-          "logo": "https://i.ibb.co.com/V0MJDLmq/20260623-015601.webp",
-          "link": "https://stream.ottplus.live/live/bangla_tv_hd_abr/live/bangla_tv_hd_720/chunks.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Ananda Tv",
-          "logo": "https://i.ibb.co.com/Q7G44Gp0/20260623-015129.webp",
-          "link": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Channel 9",
-          "logo": "https://i.ibb.co.com/h1fLjJp3/20260623-013624.webp",
-          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8",
-          "premium": true
-        },
-        {
-          "name": "Bangla +",
-          "logo": "https://i.ibb.co.com/jvfMvpZL/20260622-192950.webp",
-          "link": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Somoy Tv",
-          "logo": "https://i.ibb.co.com/7w2rF08/20260618-034915.webp",
-          "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
-          "premium": true
-        },
-        {
-          "name": "Movie Bangla",
-          "logo": "https://i.ibb.co.com/rGCQ14yK/20260618-021225.webp",
-          "link": "https://bestiptv.bestiptv-pro.workers.dev/?url=http://alvetv.com/moviebanglatv/8080/index.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Tsports",
-          "logo": "https://i.ibb.co.com/Xmn5JpS/20260618-022013.webp",
-          "link": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8",
-          "premium": false,
-          "hidden": false
-        },
-        {
-          "name": "BD | SOMOY NEWS",
-          "logo": "https://i.ibb.co.com/7w2rF08/20260618-034915.webp",
-          "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Unmochon Tv",
-          "logo": "https://i.ibb.co.com/wNvGkK81/images-6.webp",
-          "link": "https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8",
-          "premium": false,
-          "hidden": false
-        },
-        {
-          "name": "Channel S",
-          "logo": "https://i.ibb.co.com/1t7HWqcc/20260623-094405.webp",
-          "link": "https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8",
-          "premium": false
         }
       ]
     },
