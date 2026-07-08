@@ -199,6 +199,13 @@
           "link": "https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8",
           "premium": false,
           "hidden": false
+        },
+        {
+          "name": "Sony Sports 2",
+          "logo": "https://i.ibb.co.com/qFLszr1y/images-2.webp",
+          "link": "https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8",
+          "premium": true,
+          "hidden": false
         }
       ]
     },
