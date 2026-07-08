@@ -4,6 +4,13 @@
       "name": "Cartoons",
       "movies": [
         {
+          "name": "Tiny POP",
+          "logo": "https://i.ibb.co.com/PsfD8Vrn/images-2.webp",
+          "link": "https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/480p/index.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
           "name": "Joy",
           "logo": "https://i.ibb.co.com/RGM0jKbf/images-4.webp",
           "link": "https://nomawnoijl.gpcdn.net/akash/joy/chunks.m3u8",
