@@ -1,6 +1,53 @@
 {
   "categories": [
     {
+      "name": "Cartoons",
+      "movies": [
+        {
+          "name": "Tiny POP",
+          "logo": "https://i.ibb.co.com/PsfD8Vrn/images-2.webp",
+          "link": "https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/480p/index.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
+          "name": "Joy",
+          "logo": "https://i.ibb.co.com/RGM0jKbf/images-4.webp",
+          "link": "https://nomawnoijl.gpcdn.net/akash/joy/chunks.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
+          "name": "PBS Kids",
+          "logo": "https://i.ibb.co.com/01gmWfz/images-1.webp",
+          "link": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_DVR.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
+          "name": "Kids Stars",
+          "logo": "https://i.ibb.co.com/wbtDtz3/Large-Kids-Stars-logohq-png-78383e6209113513ce959671d3494e14.webp",
+          "link": "https://nomawnoijl.gpcdn.net/akash/kidsstars/chunks.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
+          "name": "Gopar Bhar",
+          "logo": "https://i.ibb.co.com/Y4R0cSDK/images-3.webp",
+          "link": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
+          "name": "Nikky",
+          "logo": "https://i.ibb.co.com/wZJvyBjW/NIKKY-CHANNEL-OFFICIAL.jpg",
+          "link": "https://nomawnoijl.gpcdn.net/akash/nikky/chunks.m3u8",
+          "premium": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
       "name": "Akash Go",
       "movies": [
         {
@@ -248,53 +295,6 @@
           "logo": "https://i.ibb.co.com/1t7HWqcc/20260623-094405.webp",
           "link": "https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8",
           "premium": false
-        }
-      ]
-    },
-    {
-      "name": "Cartoons",
-      "movies": [
-        {
-          "name": "Tiny POP",
-          "logo": "https://i.ibb.co.com/PsfD8Vrn/images-2.webp",
-          "link": "https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/480p/index.m3u8",
-          "premium": false,
-          "hidden": false
-        },
-        {
-          "name": "Joy",
-          "logo": "https://i.ibb.co.com/RGM0jKbf/images-4.webp",
-          "link": "https://nomawnoijl.gpcdn.net/akash/joy/chunks.m3u8",
-          "premium": false,
-          "hidden": false
-        },
-        {
-          "name": "PBS Kids",
-          "logo": "https://i.ibb.co.com/01gmWfz/images-1.webp",
-          "link": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_DVR.m3u8",
-          "premium": false,
-          "hidden": false
-        },
-        {
-          "name": "Kids Stars",
-          "logo": "https://i.ibb.co.com/wbtDtz3/Large-Kids-Stars-logohq-png-78383e6209113513ce959671d3494e14.webp",
-          "link": "https://nomawnoijl.gpcdn.net/akash/kidsstars/chunks.m3u8",
-          "premium": false,
-          "hidden": false
-        },
-        {
-          "name": "Gopar Bhar",
-          "logo": "https://i.ibb.co.com/Y4R0cSDK/images-3.webp",
-          "link": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8",
-          "premium": false,
-          "hidden": false
-        },
-        {
-          "name": "Nikky",
-          "logo": "https://i.ibb.co.com/wZJvyBjW/NIKKY-CHANNEL-OFFICIAL.jpg",
-          "link": "https://nomawnoijl.gpcdn.net/akash/nikky/chunks.m3u8",
-          "premium": false,
-          "hidden": false
         }
       ]
     },
