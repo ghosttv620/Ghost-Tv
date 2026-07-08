@@ -707,6 +707,12 @@
           "link": "https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8",
           "premium": false,
           "hidden": false
+        },
+        {
+          "name": "Channel S",
+          "logo": "https://i.ibb.co.com/1t7HWqcc/20260623-094405.webp",
+          "link": "https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8",
+          "premium": false
         }
       ]
     },
