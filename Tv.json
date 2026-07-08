@@ -852,6 +852,13 @@
       "name": "Documentary",
       "movies": [
         {
+          "name": "Discovery",
+          "logo": "https://i.ibb.co.com/99JDHFGz/images-5.webp",
+          "link": "https://mflixott.com/tv/toffee-by-maruf/live.php?cid=PQVDEP2tGgm9iEtfz8&chunks=076919c35dee0eb8d02a7bff7b5d2c41577b2b5410c163734dbaecbff7dc3bf61da5e6328f1472dfdd577c33f74bb925cd386bcb24bdd35093c6db597702c868d7a18cc74ad44bef892778a456cae3cdafb26c7eb09dbe2eb884082f3fd99032&e=.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
           "name": "CGTN Docmentary",
           "logo": "https://i.ibb.co.com/r2CrNJXY/mycolive-CGTN-Documentary-1775224733166.webp",
           "link": "https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8",
