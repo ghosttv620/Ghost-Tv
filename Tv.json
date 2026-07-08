@@ -261,6 +261,12 @@
           "logo": "https://i.ibb.co.com/rKzXdqY4/20260623-124419.webp",
           "link": "https://cdn-2.pishow.tv/live/226/master.m3u8",
           "premium": true
+        },
+        {
+          "name": "Joo Music",
+          "logo": "https://i.ibb.co.com/tpJZQRyg/20260622-195020.webp",
+          "link": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
+          "premium": true
         }
       ]
     },
