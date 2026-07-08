@@ -1,6 +1,84 @@
 {
   "categories": [
     {
+      "name": "Akash Go",
+      "movies": [
+        {
+          "name": "BD | DBC NEWS HD",
+          "logo": "https://i.ibb.co.com/RTZVXjyQ/20260702-003139.webp",
+          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Deepto Tv",
+          "logo": "https://i.ibb.co.com/JR3C1b9S/20260617-201703.webp",
+          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
+          "premium": true,
+          "hidden": true
+        },
+        {
+          "name": "Bangla Vision",
+          "logo": "https://i.ibb.co.com/RkWGwGnZ/20260617-205020.webp",
+          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Btv",
+          "logo": "https://i.ibb.co.com/CXvtPYN/20260617-205448.webp",
+          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Ntv",
+          "logo": "https://i.ibb.co.com/JwgFgzNJ/20260617-205910.webp",
+          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Machranga Tv",
+          "logo": "https://i.ibb.co.com/5gnpRDyh/20260617-210143.webp",
+          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
+          "premium": true
+        },
+        {
+          "name": "Channel i",
+          "logo": "https://i.ibb.co.com/Z65V70K2/20260617-210738.webp",
+          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Jamuna Tv",
+          "logo": "https://i.ibb.co.com/238JNcWJ/20260617-211002.webp",
+          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Atn News",
+          "logo": "https://i.ibb.co.com/sdmHvmtC/20260617-211356.webp",
+          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Channel 24",
+          "logo": "https://i.ibb.co.com/pj8SJRw5/20260617-211657.webp",
+          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Ekattor Tv",
+          "logo": "https://i.ibb.co.com/qYfZzpXb/20260617-211924.webp",
+          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8",
+          "premium": false
+        },
+        {
+          "name": "Independent",
+          "logo": "https://i.ibb.co.com/tp63qbFv/20260617-212423.webp",
+          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8",
+          "premium": false
+        }
+      ]
+    },
+    {
       "name": "Bangla Tv",
       "movies": [
         {
@@ -824,84 +902,6 @@
           "name": "BBC Earth",
           "logo": "https://i.ibb.co.com/JW0c3bHq/8f6cd51ec38e4f9ccab6a7350ba42d4ca9c429da-800.png",
           "link": "https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8",
-          "premium": false
-        }
-      ]
-    },
-    {
-      "name": "Akash Go",
-      "movies": [
-        {
-          "name": "BD | DBC NEWS HD",
-          "logo": "https://i.ibb.co.com/RTZVXjyQ/20260702-003139.webp",
-          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Deepto Tv",
-          "logo": "https://i.ibb.co.com/JR3C1b9S/20260617-201703.webp",
-          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
-          "premium": true,
-          "hidden": true
-        },
-        {
-          "name": "Bangla Vision",
-          "logo": "https://i.ibb.co.com/RkWGwGnZ/20260617-205020.webp",
-          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Btv",
-          "logo": "https://i.ibb.co.com/CXvtPYN/20260617-205448.webp",
-          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Ntv",
-          "logo": "https://i.ibb.co.com/JwgFgzNJ/20260617-205910.webp",
-          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Machranga Tv",
-          "logo": "https://i.ibb.co.com/5gnpRDyh/20260617-210143.webp",
-          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
-          "premium": true
-        },
-        {
-          "name": "Channel i",
-          "logo": "https://i.ibb.co.com/Z65V70K2/20260617-210738.webp",
-          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Jamuna Tv",
-          "logo": "https://i.ibb.co.com/238JNcWJ/20260617-211002.webp",
-          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Atn News",
-          "logo": "https://i.ibb.co.com/sdmHvmtC/20260617-211356.webp",
-          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Channel 24",
-          "logo": "https://i.ibb.co.com/pj8SJRw5/20260617-211657.webp",
-          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Ekattor Tv",
-          "logo": "https://i.ibb.co.com/qYfZzpXb/20260617-211924.webp",
-          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8",
-          "premium": false
-        },
-        {
-          "name": "Independent",
-          "logo": "https://i.ibb.co.com/tp63qbFv/20260617-212423.webp",
-          "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8",
           "premium": false
         }
       ]
