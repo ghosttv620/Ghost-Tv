@@ -48,6 +48,80 @@
       ]
     },
     {
+      "name": "Sports Tv",
+      "movies": [
+        {
+          "name": "Sony Sports 5",
+          "logo": "https://i.ibb.co.com/h19HBBMZ/0a963bb67c1528daa7e694c522ca491d.png",
+          "link": "https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
+          "name": "Sony Sports 2",
+          "logo": "https://i.ibb.co.com/qFLszr1y/images-2.webp",
+          "link": "https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8",
+          "premium": true,
+          "hidden": false
+        },
+        {
+          "name": "Sony Sports 1",
+          "logo": "https://i.ibb.co.com/dsybZ1nT/images-1.webp",
+          "link": "https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
+          "name": "Euro Sports",
+          "logo": "https://i.ibb.co.com/svc0FSzY/images.webp",
+          "link": "https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
+          "name": "Toffee Fifa",
+          "logo": "https://i.ibb.co.com/23JnTXt7/20260625-020533.webp",
+          "link": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8",
+          "premium": true,
+          "hidden": false
+        },
+        {
+          "name": "FIFA 2026",
+          "logo": "https://i.ibb.co.com/jdBTJW7/20260624-210243.webp",
+          "link": "https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
+          "name": "CCTV",
+          "logo": "https://i.ibb.co.com/VpCTKKPN/20260623-011131.webp",
+          "link": "https://fuck-you.kasin-tv.com/fc/proxy.php/https%3A%2F%2Fin-mc-pdlive.fancode.com%2Fmumbai%2F142979_english_hls_fc331367d356241_1ta-di_h264%2F1080p.m3u8",
+          "premium": true,
+          "hidden": false
+        },
+        {
+          "name": "Tsports",
+          "logo": "https://i.ibb.co.com/Xmn5JpS/20260618-022013.webp",
+          "link": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8",
+          "premium": false,
+          "hidden": false
+        },
+        {
+          "name": "Fox Five",
+          "logo": "https://i.ibb.co.com/dqyg4KF/20260622-161213.webp",
+          "link": "https://andro.evrenesoglu57.click/checklist/androstreamliveexn1.m3u8",
+          "premium": true,
+          "hidden": false
+        },
+        {
+          "name": "BD | SOMOY NEWS",
+          "logo": "https://i.ibb.co.com/7w2rF08/20260618-034915.webp",
+          "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8",
+          "premium": false
+        }
+      ]
+    },
+    {
       "name": "Akash Go",
       "movies": [
         {
@@ -294,80 +368,6 @@
           "name": "Channel S",
           "logo": "https://i.ibb.co.com/1t7HWqcc/20260623-094405.webp",
           "link": "https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8",
-          "premium": false
-        }
-      ]
-    },
-    {
-      "name": "Sports Tv",
-      "movies": [
-        {
-          "name": "Sony Sports 5",
-          "logo": "https://i.ibb.co.com/h19HBBMZ/0a963bb67c1528daa7e694c522ca491d.png",
-          "link": "https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8",
-          "premium": false,
-          "hidden": false
-        },
-        {
-          "name": "Sony Sports 2",
-          "logo": "https://i.ibb.co.com/qFLszr1y/images-2.webp",
-          "link": "https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8",
-          "premium": true,
-          "hidden": false
-        },
-        {
-          "name": "Sony Sports 1",
-          "logo": "https://i.ibb.co.com/dsybZ1nT/images-1.webp",
-          "link": "https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8",
-          "premium": false,
-          "hidden": false
-        },
-        {
-          "name": "Euro Sports",
-          "logo": "https://i.ibb.co.com/svc0FSzY/images.webp",
-          "link": "https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8",
-          "premium": false,
-          "hidden": false
-        },
-        {
-          "name": "Toffee Fifa",
-          "logo": "https://i.ibb.co.com/23JnTXt7/20260625-020533.webp",
-          "link": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8",
-          "premium": true,
-          "hidden": false
-        },
-        {
-          "name": "FIFA 2026",
-          "logo": "https://i.ibb.co.com/jdBTJW7/20260624-210243.webp",
-          "link": "https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8",
-          "premium": false,
-          "hidden": false
-        },
-        {
-          "name": "CCTV",
-          "logo": "https://i.ibb.co.com/VpCTKKPN/20260623-011131.webp",
-          "link": "https://fuck-you.kasin-tv.com/fc/proxy.php/https%3A%2F%2Fin-mc-pdlive.fancode.com%2Fmumbai%2F142979_english_hls_fc331367d356241_1ta-di_h264%2F1080p.m3u8",
-          "premium": true,
-          "hidden": false
-        },
-        {
-          "name": "Tsports",
-          "logo": "https://i.ibb.co.com/Xmn5JpS/20260618-022013.webp",
-          "link": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8",
-          "premium": false,
-          "hidden": false
-        },
-        {
-          "name": "Fox Five",
-          "logo": "https://i.ibb.co.com/dqyg4KF/20260622-161213.webp",
-          "link": "https://andro.evrenesoglu57.click/checklist/androstreamliveexn1.m3u8",
-          "premium": true,
-          "hidden": false
-        },
-        {
-          "name": "BD | SOMOY NEWS",
-          "logo": "https://i.ibb.co.com/7w2rF08/20260618-034915.webp",
-          "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8",
           "premium": false
         }
       ]
