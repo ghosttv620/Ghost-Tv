@@ -51,6 +51,13 @@
       "name": "Sports Tv",
       "movies": [
         {
+          "name": "Bioscope",
+          "logo": "https://i.ibb.co.com/zhCZvfJj/unnamed.webp",
+          "link": "https://hls.diptom3ow.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.com%2Fout%2Fv1%2F60e7608404004b1186261497b404630b%2Findex_2.m3u",
+          "premium": false,
+          "hidden": false
+        },
+        {
           "name": "Sony Sports 5",
           "logo": "https://i.ibb.co.com/h19HBBMZ/0a963bb67c1528daa7e694c522ca491d.png",
           "link": "https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8",
